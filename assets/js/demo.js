@@ -1,4 +1,4 @@
-GameDetails( 'Testserver', 'http://localhost/index.html', 'cs_office', 14, 76561198051267973, 'sandbox' );
+GameDetails( 'Testserver', 'http://localhost/index.html', 'cs_office', 14, 76561198051267973, 'prophunt' );
 
 var demofiles = [
     '(fnaf_2_&_3)_purple_guy_playermodelragdoll_(reupload)',
