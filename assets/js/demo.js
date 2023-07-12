@@ -16,9 +16,9 @@ var demofiles = [
     'fnaf_4_-_animatronics_(ragdolls_&_playermodels)',
     'fnaf_golden_freddy_playermodel',
     'geoip_connection_messages_v2',
-    'materials/models/prophunt/key.mdl',
-    'materials/models/prophunt/door.mdl',
-    'materials/models/prophunt/door2.mdl',
+    'glow_sticks',
+    'gmpublisher',
+    'halloween_trails_pack',
 ];
 
 SetStatusChanged( 'Downloading some demo files...' );
