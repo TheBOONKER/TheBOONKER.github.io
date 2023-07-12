@@ -42,5 +42,5 @@ gmodLS.rules = [
     "No spam",
     "No hacks",
     "No crashes",
-    "No rules",
+    "No sadness",
 ];
